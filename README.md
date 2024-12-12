@@ -25,7 +25,7 @@ WHEN I view the title elementTHEN I find a concise, descriptive title
 
 
 
-Mock-Up
+Deatails
 --------
 The following image demonstrates the web application’s intended appearance and functionality:
 
