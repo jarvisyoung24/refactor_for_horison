@@ -1,5 +1,6 @@
 
 Description
+------------
 
 The goal of this challenge is to refactor an existing codebase to improve web accessibility standards and ensure compliance with best practices. Refactoring aims to enhance user experience for individuals relying on assistive technologies while also optimizing the site's search engine visibility. The assignment prepares you for common tasks encountered as a front-end or junior developer, emphasizing accessibility as a key component of modern web development.
 
@@ -7,6 +8,7 @@ The goal of this challenge is to refactor an existing codebase to improve web ac
 
 
 Acceptance Criteria
+--------------------
 
 GIVEN a webpage meets accessibility standardsWHEN I view the source codeTHEN I find semantic HTML elements
 
@@ -20,8 +22,11 @@ WHEN I view the title elementTHEN I find a concise, descriptive title
 
 
 
-Mock-Up
 
+
+
+Mock-Up
+--------
 The following image demonstrates the web application’s intended appearance and functionality:
 
 A webpage titled "Horiseon" features:
